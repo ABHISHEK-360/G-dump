@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "314037544151",
+    "firebase_url": "https://gdump-4eaa2.firebaseio.com",
+    "project_id": "gdump-4eaa2",
+    "storage_bucket": "gdump-4eaa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314037544151:android:894555014ebf49fc",
+        "android_client_info": {
+          "package_name": "com.dev.abhishek360.gdump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314037544151-88i49h877dgquh9o5l1v14ndd0h5cl7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.abhishek360.gdump",
+            "certificate_hash": "d1052193f243025424a2096e4f6dd703917a4e0b"
+          }
+        },
+        {
+          "client_id": "314037544151-cd9pj1a5l8jto9c12d0a3oa3s9lfogj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpJJelH9ENrxcxngxo7mJYuElAUMt0n-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314037544151-cd9pj1a5l8jto9c12d0a3oa3s9lfogj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
